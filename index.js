@@ -8,3 +8,5 @@ contributor = "Low"
 const message = (owner, contributor) => `Hey ${owner}! My name is ${contributor} and I just saw your new project on GitHub! Your doing some great stuff! Mind if contribute?`
 
 console.log(message(projectOwner, contributor))
+
+console.log("My new project")
